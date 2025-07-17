@@ -4,7 +4,11 @@ This repository contains my **Swift Student Challenge 2025** submission: **Al-Ad
 
 This project is based on my iOS app, [**Al-Adhan | Prayer Times**](https://apps.apple.com/us/app/al-adhan-prayer-times/id6475015493?platform=iphone), and showcases my commitment to building ethical and user-friendly Islamic applications that respect privacy and enhance worship.  
 
-Submitted in **February 2025**.  
+Submitted by **Abubakr Elmallah** in **February 2025**.
+
+<a href="https://apps.apple.com/us/app/al-adhan-prayer-times/id6475015493?platform=iphone">
+  <img src="Logo.png" alt="Logo" width="120" style="border-radius:10px;"/>
+</a> 
 
 ## Features  
 
